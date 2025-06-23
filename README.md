@@ -39,9 +39,11 @@ Python
 📬 Connect with Me
 🔗 LinkedIn – [Mangesh Maurya](https://www.linkedin.com/in/mangesh-maurya/)
 
-![Screenshot (60)](https://github.com/user-attachments/assets/4fd38679-f8b5-4a7e-b80d-67b94fddff9a)
-![Screenshot (59)](https://github.com/user-attachments/assets/3eab2a2c-db3b-495d-91eb-bf32ad07b87c)
 ![Screenshot (58)](https://github.com/user-attachments/assets/06a0b623-e269-43cf-9de9-e2189561f093)
+![Screenshot (59)](https://github.com/user-attachments/assets/3eab2a2c-db3b-495d-91eb-bf32ad07b87c)
+![Screenshot (60)](https://github.com/user-attachments/assets/4fd38679-f8b5-4a7e-b80d-67b94fddff9a)
+
+
 
 
 
