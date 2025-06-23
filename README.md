@@ -1,57 +1,44 @@
-:
-
-🌐 Gemini AI ReAct Agent
-An intelligent AI assistant powered by Google's Gemini and the LangChain ReAct framework, capable of performing real-time web searches and fetching live weather data using integrated tools.
+🤖 AI Agent with Gemini, ReAct, and Real-time Weather & Web Search using LangChain
+An intelligent AI assistant powered by Google's Gemini and the LangChain ReAct framework, capable of performing real-time web searches and fetching live weather data using external tools.
 
 🚀 Features
-🤖 Gemini 1.5 Flash as the core LLM for fast and smart responses
+⚡ Uses Gemini 1.5 Flash via LangChain for fast, intelligent responses
 
-🧠 ReAct (Reasoning + Acting) agent design for decision-making and tool use
+🧠 Implements the ReAct (Reasoning + Acting) agent framework for dynamic decision-making
 
-🔎 DuckDuckGo Search integration for live, up-to-date information
+🔍 Integrated DuckDuckGo Search Tool for live web queries
 
-🌦️ WeatherStack API integration to get current weather conditions
+🌤️ Fetches real-time weather data using the WeatherStack API
 
-🔧 Tool-based architecture using LangChain's modular system
-
-📈 Easily customizable for more tools like news, finance, or maps
+🛠️ Modular and easily extensible tool-based design
 
 💡 Example Use Case
-Prompt: "Find the capital of Madhya Pradesh, then its current weather condition"
+Prompt: “Find the capital of Madhya Pradesh, then its current weather condition.”
 
-🛠️ The agent will:
+✅ The agent will:
 
-Use DuckDuckGo Search to find the capital (Bhopal)
+Use DuckDuckGo to find that the capital is Bhopal
 
-Call the WeatherStack API to fetch real-time weather data for Bhopal
+Query WeatherStack for Bhopal’s current weather
 
-Return a combined, intelligent response
+Respond with a combined and contextual output
 
 🧰 Tech Stack
 LangChain
 
-Google Generative AI (Gemini)
+Gemini (Google Generative AI)
 
-DuckDuckGo Search Tool
+DuckDuckGo Search
 
 WeatherStack API
-![Screenshot (60)](https://github.com/user-attachments/assets/58b5c27a-ab47-43b9-96c7-3267f1e7debd)
-![Screenshot (59)](https://github.com/user-attachments/assets/08583f78-5b29-458a-8723-7c52b83a2487)
-![Screenshot (58)](https://github.com/user-attachments/assets/c0d6b9d5-8529-4d47-b328-ef19972c608e)
 
 Python
 
-📌 Prerequisites
-Python 3.8+
+📬 Connect with Me
+🔗 LinkedIn – [Mangesh Maurya](https://www.linkedin.com/in/mangesh-maurya/)
+![Screenshot (60)](https://github.com/user-attachments/assets/8acaac3a-7413-4302-a2f7-dea3468025a4)
+![Screenshot (59)](https://github.com/user-attachments/assets/48c51981-e70a-4fa5-b413-ca6e9a2dc3a4)
+![Screenshot (58)](https://github.com/user-attachments/assets/a28d1efe-6fed-4fbd-a3e4-e48b1699c303)
 
-WeatherStack API Key
 
-Google Generative AI Key (Gemini)
-
-🤝 Contribution
-Feel free to fork, experiment, and contribute! Suggestions and improvements are always welcome.
-
-📬 Connect
-For questions or collaborations, reach out on LinkedIn or open an issue.
-Linkedin: https://www.linkedin.com/in/mangesh-maurya/
 
